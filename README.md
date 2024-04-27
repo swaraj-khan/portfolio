@@ -2,7 +2,7 @@
 
 ## Experience
 
-### Chatbot Development | Nokia | Bangalore | Mar '24 - Till date
+### Chatbot Development | Intern @ Nokia | Bangalore | Mar '24 - Till date
 - Working for Nokia Bangalore since March 2024.
 - Started as an intern and currently working on it.
 - Developing a chatbot for the internal teams to assist with log analysis during testing.
@@ -13,7 +13,7 @@
 - Working with 10 years historical data from Yahoo Finance
 - Full moon impact: Buy/sell trends and popular stocks
 
-### Stroke Prediction | INTERN @ Disys | Bangalore | Jul ’23 - Aug ’23
+### Stroke Prediction | Intern @ Disys | Bangalore | Jul ’23 - Aug ’23
 - Built a model from patient database to predict heart stroke.
 - Data cleaning, data manipulation, handling missing values
 - Feature selection, confusion matrix
