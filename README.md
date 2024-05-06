@@ -28,7 +28,7 @@
 - This pipeline aimed to simplify the process of implementing machine learning models for various tasks, providing a seamless experience for researchers and practitioners alike.
 
 ### Text Mining and Analysis
-- GitHub repository: [Shawshank Redemption Script for NLP](https://github.com/swaraj-khan/Shawshank-Redemption-Script-for-NLP)
+- [GitHub Repo]([https://github.com/swaraj-khan/AutoML-Data-Pipeline](https://github.com/swaraj-khan/Shawshank-Redemption-Script-for-NLP))
 - Developed a Python-based NLP project analyzing "The Shawshank Redemption" script
 - Utilized various NLP techniques including sentiment analysis, word frequency analysis, and cosine similarity
 - Visualized character networks and sentiment trends
