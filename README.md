@@ -27,6 +27,13 @@
 - I created a GitHub repo for a project called Auto ML pipeline which automated machine learning tasks including image segmentation, LSTM prediction, and CSV data analysis.
 - This pipeline aimed to simplify the process of implementing machine learning models for various tasks, providing a seamless experience for researchers and practitioners alike.
 
+### Text Mining and Analysis
+- GitHub repository: [Shawshank Redemption Script for NLP](https://github.com/swaraj-khan/Shawshank-Redemption-Script-for-NLP)
+- Developed a Python-based NLP project analyzing "The Shawshank Redemption" script
+- Utilized various NLP techniques including sentiment analysis, word frequency analysis, and cosine similarity
+- Visualized character networks and sentiment trends
+- Conducted extensive text mining and data cleaning
+
 ### Binary Image Classification with Deep Neural Networks
 - [GitHub Repo](https://github.com/swaraj-khan/Deep-Neural-Netwroks/blob/main/2.%20Binary_Classification.pdf)
 - I explored image classification using deep neural networks in the "Cat vs. Dog" project, assessing the performance of 2-Layer (72% accuracy) and L-Layer (80% accuracy) neural network models.
