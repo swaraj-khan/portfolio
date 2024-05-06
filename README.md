@@ -23,12 +23,12 @@
 ## Projects
 
 ### Auto ML Pipeline
-- [GitHub Repo](https://github.com/swaraj-khan/AutoML-Data-Pipeline)
+- [GitHub Repo]([https://github.com/swaraj-khan/AutoML-Data-Pipeline)
 - I created a GitHub repo for a project called Auto ML pipeline which automated machine learning tasks including image segmentation, LSTM prediction, and CSV data analysis.
 - This pipeline aimed to simplify the process of implementing machine learning models for various tasks, providing a seamless experience for researchers and practitioners alike.
 
 ### Text Mining and Analysis
-- [GitHub Repo]([https://github.com/swaraj-khan/AutoML-Data-Pipeline](https://github.com/swaraj-khan/Shawshank-Redemption-Script-for-NLP))
+- [GitHub Repo](https://github.com/swaraj-khan/Shawshank-Redemption-Script-for-NLP)
 - Developed a Python-based NLP project analyzing "The Shawshank Redemption" script
 - Utilized various NLP techniques including sentiment analysis, word frequency analysis, and cosine similarity
 - Visualized character networks and sentiment trends
