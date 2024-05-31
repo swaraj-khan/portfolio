@@ -1,5 +1,7 @@
 # Swaraj Khan's Portfolio
 
+**Blog Website:** [Click here to check out my blogs](https://swarajkhan.quarto.pub/swaraj-khan-p/)
+
 ## Experience
 
 ### Chatbot Development | Intern @ Nokia | Bangalore | Mar '24 - Till date
