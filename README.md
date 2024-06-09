@@ -1,6 +1,7 @@
 # Swaraj Khan's Portfolio
 
 **Blog Website:** [Click here to check out my blogs](https://swarajkhan.quarto.pub/swaraj-khan-p/)
+
 **Resume:** [Click here to check out my resume](Swaraj Khan Resume.pdf){:target="_blank"}
 
 ## Experience
