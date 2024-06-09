@@ -2,6 +2,8 @@
 
 **Blog Website:** [Click here to check out my blogs](https://swarajkhan.quarto.pub/swaraj-khan-p/)
 
+**Resume:** [Preview PDF](Swaraj Khan Resume.pdf){:target="_blank"}
+
 ## Experience
 
 ### Chatbot Development | Intern @ Nokia | Bangalore | Mar '24 - Till date
