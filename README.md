@@ -4,14 +4,12 @@
 
 ## Experience
 
-### Chatbot Development | Intern @ Nokia | Bangalore | Mar '24 - Till date
-- Working for Nokia Bangalore since March 2024.
-- Started as an intern and currently working on it.
-- Developing a chatbot for the internal teams to assist with log analysis during testing.
+### Chatbot Development | Intern @ Nokia | Bangalore | Mar '24 - Jul '24
+- Developed an AI powered chatbot for the internal teams to assist with log analysis during testing.
 - Using NLP, the chatbot helps employees understand log messages by providing suitable answers to their queries.
 
-### Trading Bot | Contribution @ IIMB | Bangalore | Feb ’24 - Till date
-- Currently working on building a trading bot built with Python based on Moon’s position
+### Trading Bot | Contribution @ IIMB | Bangalore | Feb ’24 - Jun '24
+- Built a trading bot built with Python based on Moon’s position
 - Working with 10 years historical data from Yahoo Finance
 - Full moon impact: Buy/sell trends and popular stocks
 
