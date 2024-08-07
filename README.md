@@ -1,6 +1,6 @@
 # Swaraj Khan's Portfolio
 
-|  [My Resume](Swaraj Khan Resume.pdf){:target="_blank"} | [Projet Blogs](https://swarajkhan.quarto.pub/swaraj-khan-p/) |
+|  [My Resume](Swaraj Khan Resume.pdf){:target="_blank"} | [Projet Blogs](https://swarajkhan.quarto.pub/testing-blog/) |
 
 ## Experience
 
