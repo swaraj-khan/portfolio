@@ -2,6 +2,20 @@
 
 |  [My Resume](Swaraj Khan Resume.pdf){:target="_blank"} | [Projet Blogs](https://swarajkhan.quarto.pub/testing-blog/) |
 
+
+## Publications
+
+**Automated Q and A Chatbot: Harnessing AI for Efficient Information Retrieval**  
+*2024*  
+[ICCMLAI](https://theconferenceworld.org/conference_album.php?al_id=647)  
+Pune, India
+
+- Developed a PDF-based Q & A chatbot application that efficiently retrieves answers using predefined content without AI or NLP.
+- Implemented PDF parsing techniques to extract and structure Q & A pairs for quick lookup and response.
+- Streamlined the system for high accuracy and low latency in response times, making it suitable for real-time applications.
+- Presented findings at the International Conference on Computer Science, Machine Learning, and Artificial Intelligence (ICCMLAI) in Pune, highlighting innovative methods for non-AI-based information retrieval systems.
+
+
 ## Experience
 
 ### Chatbot Development | Intern @ Nokia | Bangalore | Mar '24 - Jul '24
