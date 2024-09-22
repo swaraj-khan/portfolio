@@ -36,14 +36,14 @@ Pune, India
 
 ## Projects
 
-### RAG Chatbot for Avatar by James Cameron
+### RAG Chatbot for Constitution of India
 - [GitHub Repo](https://github.com/swaraj-khan/Avatar-James-Cameron-RAG-Chatbot)
 - Implemented a RAG chatbot using Gemini 1.5 Flash and Langflow, integrating advanced retrieval-augmented generation
 capabilities.
 - Utilized Chroma DB for efficient and scalable vector storage and retrieval of movie-related data.
 - Applied chunking and text splitting techniques for optimized data processing and context-aware response generation.
 - Engineered prompts and employed AI embeddings to enhance the chatbot’s accuracy upto 95% and relevance in
-answering queries about Avatar.
+answering queries about Constitution of India.
 
 ### Auto ML Pipeline
 - [GitHub Repo](https://github.com/swaraj-khan/AutoML-Data-Pipeline)
