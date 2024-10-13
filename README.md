@@ -7,7 +7,7 @@
 
 **Automated Q and A Chatbot: Harnessing AI for Efficient Information Retrieval**  
 *2024*  
-[ICCMLAI](https://theconferenceworld.org/conference_album.php?al_id=647)  
+[ICCMLAI](https://digitalxplore.org/proceeding.php?pid=2620)  
 Pune, India
 
 - Developed a PDF-based Q & A chatbot application that efficiently retrieves answers using predefined content without AI or NLP.
