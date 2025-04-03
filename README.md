@@ -1,99 +1,135 @@
 # Swaraj Khan's Portfolio
 
-|  [My Resume](Swaraj Khan Resume.pdf){:target="_blank"} |  [YouTube Channel](https://www.youtube.com/@LumberjackStuds) | [Projet Blogs](https://swarajkhan.quarto.pub/testing-blog/) |
+|  [My Resume](Swaraj Khan Resume.pdf){:target="_blank"} |  [YouTube Channel](https://www.youtube.com/@LumberjackStuds) | [Project Blogs](https://swarajkhan.quarto.pub/testing-blog/) |
 
+## About Me
+
+A motivated Computer Science student with a strong passion for Python programming and machine learning. Currently pursuing B.Tech in Computer Science & Engineering at Dayananda Sagar University, Bengaluru. Seeking opportunities to apply theoretical knowledge in real-world projects, enhance software development skills, and advance expertise in machine learning techniques.
 
 ## Publications
 
-**Automated Q and A Chatbot: Harnessing AI for Efficient Information Retrieval**  
+**Automated PDF Q and A Chatbot: Harnessing AI for Efficient Information Retrieval**  
 *2024*  
-[ICCMLAI](https://digitalxplore.org/proceeding.php?pid=2620)  
+[IRF International Conference](https://digitalxplore.org/proceeding.php?pid=2620)  
 Pune, India
 
-- Developed a PDF-based Q & A chatbot application that efficiently retrieves answers using predefined content without AI or NLP.
-- Implemented PDF parsing techniques to extract and structure Q & A pairs for quick lookup and response.
-- Streamlined the system for high accuracy and low latency in response times, making it suitable for real-time applications.
-- Presented findings at the International Conference on Computer Science, Machine Learning, and Artificial Intelligence (ICCMLAI) in Pune, highlighting innovative methods for non-AI-based information retrieval systems.
+- Developed an AI-driven PDF-based Q&A chatbot utilizing text extraction, chunking, and cosine similarity matching for accurate information retrieval without relying on generative AI.
+- Implemented advanced data sanitization techniques to prevent XSS attacks, enhancing security while maintaining sub-second response times.
+- Created comprehensive logging mechanisms to track interactions and queries, improving system reliability and user experience.
+- Presented research findings demonstrating how efficient document parsing and vector representation can outperform conventional NLP techniques for specific Q&A applications.
 
+**Democratizing Machine Learning: A KNN-Guided Adaptive AutoML Framework**  
+*2025*  
+Accepted for Publication - IEEE Conference
+
+- Co-authored research introducing a novel AutoML pipeline that automates preprocessing, model selection, and hyperparameter tuning for structured and time-series data.
+- Developed a K-Nearest Neighbors approach for neural architecture determination that achieved 91.19% average accuracy across ten CSV datasets and 63.66% loss reduction across time-series datasets.
+- Created a flexible framework supporting multiple data types including CSV, time-series, and image datasets with specialized processing pipelines.
+
+**Smart Surveillance: AI-Driven Threat Detection and Women Safety Enhancement**  
+*2025*  
+Accepted for Publication - IEEE Conference
+
+- Collaborated on an innovative surveillance system that leverages Raspberry Pi 5 for edge computing, enabling real-time threat detection and response.
+- Integrated multiple detection models including face emotion recognition, weapon detection, violence detection, and behavior analysis to create a comprehensive security solution.
+- Developed the alert management system using Telegram chatbot for instant notification, allowing rapid response to potential security threats.
+- Contributed to system evaluation achieving over 90% accuracy in violence detection and 86% accuracy in weapon detection across various test scenarios.
 
 ## Experience
 
+### Machine Learning Engineer | Founding Intern @ Draconic AI | Remote | Oct '24 - Present
+- Architected a comprehensive data engineering pipeline leveraging FastAPI endpoints to extract real-time OHLCV trading data from Zerodha and Dhan platforms, implementing dual-storage strategy with Redis for high-speed access and PostgreSQL (Supabase) for persistent storage.
+- Developed advanced computation modules for critical trading metrics including candlestick patterns, price action indicators, swing analysis, and options chain analytics, optimizing data availability for algorithmic trading decisions.
+- Designed and implemented a secure authentication system with Google OAuth and WhatsApp OTP verification, integrating with Supabase backend for robust user management in a production environment.
+- Engineered multiple AI agent systems using CrewAI, Agno, and Smol frameworks, creating both Anthropic Claude-powered production agents and open-source HuggingFace alternatives, while implementing a comprehensive LLM monitoring system tracking token usage and response latency.
+- Built dual-purpose Retrieval Augmented Generation (RAG) systems: (1) a general knowledge base indexing 60+ trading books by renowned authors, and (2) a personalized system enabling analysis of user-uploaded trading journals and TradingView charts combined with real-time market data.
+- Conducted systematic prompt engineering experiments using PromptLayer to optimize LLM performance across different contexts, significantly enhancing response quality and reducing token consumption.
+
 ### Chatbot Development | Intern @ Nokia | Bangalore | Mar '24 - Jul '24
-- Developed an AI powered chatbot for the internal teams to assist with log analysis during testing.
-- Using NLP, the chatbot helps employees understand log messages by providing suitable answers to their queries.
+- Engineered a production-grade AI-powered chatbot for Nokia's ticketing and testing teams, automating log issue resolution and reducing manual workload by 40% while improving operational efficiency.
+- Enhanced chatbot query accuracy by 25% through implementation of advanced NLP techniques and BGE3-Large vector embeddings, optimizing response relevance and achieving a 92% user satisfaction rate.
+- Integrated real-time database retrieval with optimized caching mechanisms, cutting response times by 30% and improving scalability for enterprise-level deployment.
+- Selected to present the project at Nokia Bangalore University Connect (NBUC) program, a prestigious event attended by academic partners and senior technical leadership, receiving recognition for innovative approach to automated support systems.
 
-### Trading Bot | Contribution @ IIMB | Bangalore | Feb ’24 - Jun '24
-- Built a trading bot built with Python based on Moon’s position
-- Working with 10 years historical data from Yahoo Finance
-- Full moon impact: Buy/sell trends and popular stocks
-
-### Stroke Prediction | Intern @ Disys | Bangalore | Jul ’23 - Aug ’23
-- Built a model from patient database to predict heart stroke.
-- Data cleaning, data manipulation, handling missing values
-- Feature selection, confusion matrix
-- Data visualisation-Matplotlib: correlation matrix and bar graphs
-- Algorithms: Random Forest(0.945), Gradient Booster(0.941) & Logistic Regression(0.754)
+### Machine Learning | Intern @ Dexian | Bangalore | Jul '23 - Aug '23
+- Designed and implemented a high-accuracy heart stroke prediction system using ensemble methods including Random Forest (94.5%), Gradient Boosting (94.1%), and Logistic Regression (75.4%), enabling early risk assessment for preventative care.
+- Optimized data preprocessing pipeline with advanced feature engineering techniques, improving overall model performance by 10% while reducing computational overhead by 15%.
+- Developed interactive visualization dashboards using Matplotlib and Seaborn to communicate critical insights to medical stakeholders, facilitating data-driven decision making for patient interventions.
 
 ## Projects
 
+### finanalysis: Comprehensive Financial Analysis Python Package (In Development)
+- [GitHub Repo](https://github.com/swaraj-khan/finanalysis)
+- Currently developing a pure Python PyPI library designed to offer 30+ financial metrics for stock market technical analysis, enabling traders and financial analysts to make data-driven investment decisions.
+- Implementing four major analysis categories: candlestick pattern recognition (range, body size, shadow ratios), price action indicators (momentum, acceleration, trend strength), swing metrics (duration, magnitude, pivot points), and options analysis (put-call ratios, implied volatility, open interest).
+- Designing a clean, intuitive API focused on performance optimization with vectorized operations for handling large datasets of historical market data with minimal computational overhead.
+- Creating comprehensive documentation with practical examples demonstrating how traders can integrate the package into their existing analysis workflows, complete with visualization capabilities.
+
+### World Port Priority Score Predictor
+- [GitHub Repo](https://github.com/swaraj-khan/World-Port-Priority-Score-Predictor)
+- Developed an interactive web application using Streamlit that analyzes and visualizes global port data, allowing users to evaluate port suitability based on physical characteristics.
+- Implemented a machine learning model using joblib to predict priority scores for ports based on critical maritime parameters (overhead limit and tide range).
+- Created dynamic geospatial visualizations with GeoPandas, enabling users to filter and display port locations by country on an interactive map interface.
+- Designed a robust priority scoring algorithm that evaluates port accessibility factors, providing maritime logistics companies with data-driven insights for route planning and vessel selection.
+
 ### RAG Chatbot for Constitution of India
 - [GitHub Repo](https://github.com/swaraj-khan/Avatar-James-Cameron-RAG-Chatbot)
-- Implemented a RAG chatbot using Gemini 1.5 Flash and Langflow, integrating advanced retrieval-augmented generation
-capabilities.
-- Utilized Chroma DB for efficient and scalable vector storage and retrieval of movie-related data.
+- Implemented a RAG chatbot using Gemini 1.5 Flash and Langflow, integrating advanced retrieval-augmented generation capabilities.
+- Utilized Chroma DB for efficient and scalable vector storage and retrieval of data.
 - Applied chunking and text splitting techniques for optimized data processing and context-aware response generation.
-- Engineered prompts and employed AI embeddings to enhance the chatbot’s accuracy upto 95% and relevance in
-answering queries about Constitution of India.
+- Engineered prompts and employed AI embeddings to enhance the chatbot's accuracy up to 95% and relevance in answering queries about Constitution of India.
 
 ### Auto ML Pipeline
 - [GitHub Repo](https://github.com/swaraj-khan/AutoML-Data-Pipeline)
-- I created a GitHub repo for a project called Auto ML pipeline which automated machine learning tasks including image segmentation, LSTM prediction, and CSV data analysis.
-- This pipeline aimed to simplify the process of implementing machine learning models for various tasks, providing a seamless experience for researchers and practitioners alike.
-
-### Text Mining and Analysis
-- [GitHub Repo](https://github.com/swaraj-khan/Shawshank-Redemption-Script-for-NLP)
-- Developed a Python-based NLP project analyzing "The Shawshank Redemption" script
-- Utilized various NLP techniques including sentiment analysis, word frequency analysis, and cosine similarity
-- Visualized character networks and sentiment trends
-- Conducted extensive text mining and data cleaning
-
-### Binary Image Classification with Deep Neural Networks
-- [GitHub Repo](https://github.com/swaraj-khan/Deep-Neural-Netwroks/blob/main/2.%20Binary_Classification.pdf)
-- I explored image classification using deep neural networks in the "Cat vs. Dog" project, assessing the performance of 2-Layer (72% accuracy) and L-Layer (80% accuracy) neural network models.
-- Detailed architecture, implementation, and performance metrics in a Jupyter notebook.
-- The future objectives involved experimenting with different architectures, delving into convolutional neural networks (CNNs), and expanding the model to tackle various image classification tasks.
+- Created a comprehensive AutoML pipeline that automates machine learning tasks including image segmentation, LSTM prediction, and CSV data analysis.
+- Simplified the process of implementing machine learning models for various tasks, providing a seamless experience for researchers and practitioners.
 
 ### Autonomous Driving - Car Detection
 - [GitHub Repo](https://github.com/swaraj-khan/Deep-Neural-Netwroks/blob/main/Autonomous_driving_application_Car_detection.ipynb)
-- I detected objects in a car detection dataset
-- Implemented non-max suppression to increase accuracy
-- Implemented intersection over union
-- Handled bounding boxes, a type of image annotation popular in deep learning
-- Achieved an accuracy of 89% on the test set for detecting cars 
+- Implemented a state-of-the-art YOLO (You Only Look Once) object detection system for autonomous vehicles, achieving 89% accuracy in identifying cars, traffic lights, and other road objects under various lighting conditions.
+- Engineered critical algorithms including non-max suppression and intersection over union (IoU) calculation to eliminate redundant detections and improve localization precision.
+- Optimized tensor operations using TensorFlow to process the model's 19×19×5×85 dimensional output volume for real-time detection capabilities.
+- Developed custom filtering algorithms to extract meaningful predictions from complex neural network outputs, enabling accurate bounding box generation around detected objects.
+
+### Binary Image Classification with CNN
+- [GitHub Repo](https://github.com/swaraj-khan/Deep-Neural-Netwroks/blob/main/2.%20Binary_Classification.pdf)
+- Developed a robust image classification system using Convolutional Neural Networks (CNN) to distinguish between cat and dog images with 70% validation accuracy.
+- Implemented a multi-layer architecture with two convolutional layers (32 and 64 filters), max pooling, and dense connections using TensorFlow and Keras.
+- Engineered efficient data preprocessing pipeline for normalizing 100×100×3 pixel images and optimizing model training on 2,000+ samples.
+- Achieved consistent performance improvement across training epochs from 55% to 90% accuracy through hyperparameter tuning and architecture optimization.
 
 ### Emojify
 - [GitHub Repo](https://github.com/swaraj-khan/Deep-Neural-Netwroks/blob/main/Emoji_v3a.ipynb)
-- Created an embedding layer in Keras with pre-trained word vectors
-- Explained the advantages and disadvantages of the GloVe algorithm
-- Built a sentiment classifier using word embeddings
-- Built and trained a more sophisticated classifier using an LSTM
-- Achieved an accuracy of 87% on the test set
+- Created an embedding layer in Keras with pre-trained word vectors.
+- Explained the advantages and disadvantages of the GloVe algorithm.
+- Built a sentiment classifier using word embeddings.
+- Built and trained a more sophisticated classifier using an LSTM.
+- Achieved an accuracy of 87% on the test set.
 
-### Deep Learning & Art: Neural Style Transfer
-- [GitHub Repo](https://github.com/swaraj-khan/Deep-Neural-Netwroks/blob/main/art-generation-with-neural-style-transfer.ipynb)
-- Neural Style Transfer (NST) used a previously trained convolutional network, and built on top of that. The idea of using a network trained on a different task and applying it to a new task is called transfer learning.
-- Following the original NST paper, I used the VGG network. Specifically, I used VGG-19, a 19-layer version of the VGG network. This model had already been trained on the very large ImageNet database
+## Achievements
 
+**ETL Hackathon (2025)**
+- Secured 1st Place out of 300 students at Dayananda Sagar University.
+- Developed a data pipeline to extract cricket player statistics from Cricbuzz, transform the data for user comparison, and visualize results through interactive bar and pie charts.
+
+**Discord Bot Creation (2025)**
+- Engineered a Discord bot simulating Bitcoin mining, where users solve math problems ranging from simple to intermediate difficulty to earn virtual bitcoins.
+- Enhanced user engagement through gamification, creating an educational tool that teaches both mathematical concepts and basic cryptocurrency principles.
 
 ## Technical Skills
 
 | Category                   | Skills                                                                                   |
 |----------------------------|------------------------------------------------------------------------------------------|
-| Data Science / Analysis    | Neural Networks, Hyper Parameters Tuning, Convolution Neural Networks, Sequence Models, TensorFlow, Pandas, Numpy |
-| MySQL / Database           | Tables, Views, Queries, Indexes, Clauses, Conditions, Key, Aggregate Functions          |
-| Statistics / Concept       | Conditional probability, Bayes Theorem, Probability Distribution Function                |
-| Power BI / Data Visualization | Sales Insights, Spotify Dashboard, Amazon Prime Video Dashboard                         |
+| AI/ML                      | LLM (Anthropic, Hugging Face), RAG Systems, Agentic Framework, PyTorch, Pandas, NumPy   |
+| Languages                  | Python, SQL                                                                             |
+| Web Technologies           | Chainlit, Streamlit, Web Scraping, Langchain, LlamaIndex                                |
+| Developer Tools            | Docker, Git, VS Code, GitHub                                                            |
+| Databases & Infrastructure | Redis, PostgreSQL, Grafana, Logfire, Ray, SQS                                           |
 
+## Certificates
+
+- [Deep Neural Networks with PyTorch](https://www.coursera.org/account/accomplishments/verify/3QRQR3ADGLSY) - Coursera
+- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/LBZ99YFBZLDH) by Andrew Ng (5 Modules) - Coursera
 
 ## Contact
 
