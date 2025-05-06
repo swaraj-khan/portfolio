@@ -37,7 +37,7 @@ Accepted for Publication - IEEE Conference
 
 ## Experience
 
-### Machine Learning Engineer | Founding Intern @ Draconic AI | Remote | Oct '24 - Present
+### Machine Learning Engineer | Founding Intern @ Draconic AI | In-Office | Oct '24 - Present
 - Architected a comprehensive data engineering pipeline leveraging FastAPI endpoints to extract real-time OHLCV trading data from Zerodha and Dhan platforms, implementing dual-storage strategy with Redis for high-speed access and PostgreSQL (Supabase) for persistent storage.
 - Developed advanced computation modules for critical trading metrics including candlestick patterns, price action indicators, swing analysis, and options chain analytics, optimizing data availability for algorithmic trading decisions.
 - Designed and implemented a secure authentication system with Google OAuth and WhatsApp OTP verification, integrating with Supabase backend for robust user management in a production environment.
