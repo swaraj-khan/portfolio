@@ -37,7 +37,7 @@ Accepted for Publication - IEEE Conference
 
 ## Experience
 
-### Machine Learning Engineer | Founding Intern @ Draconic AI | In-Office | Oct '24 - Present
+### Machine Learning Engineer | Founding Intern @ Draconic AI | In-Office Bangalore | Oct '24 - Present
 - Architected a comprehensive data engineering pipeline leveraging FastAPI endpoints to extract real-time OHLCV trading data from Zerodha and Dhan platforms, implementing dual-storage strategy with Redis for high-speed access and PostgreSQL (Supabase) for persistent storage.
 - Developed advanced computation modules for critical trading metrics including candlestick patterns, price action indicators, swing analysis, and options chain analytics, optimizing data availability for algorithmic trading decisions.
 - Designed and implemented a secure authentication system with Google OAuth and WhatsApp OTP verification, integrating with Supabase backend for robust user management in a production environment.
@@ -45,13 +45,13 @@ Accepted for Publication - IEEE Conference
 - Built dual-purpose Retrieval Augmented Generation (RAG) systems: (1) a general knowledge base indexing 60+ trading books by renowned authors, and (2) a personalized system enabling analysis of user-uploaded trading journals and TradingView charts combined with real-time market data.
 - Conducted systematic prompt engineering experiments using PromptLayer to optimize LLM performance across different contexts, significantly enhancing response quality and reducing token consumption.
 
-### Chatbot Development | Intern @ Nokia | Bangalore | Mar '24 - Jul '24
+### Chatbot Development | Intern @ Nokia | Hybrid Bangalore | Mar '24 - Jul '24
 - Engineered a production-grade AI-powered chatbot for Nokia's ticketing and testing teams, automating log issue resolution and reducing manual workload by 40% while improving operational efficiency.
 - Enhanced chatbot query accuracy by 25% through implementation of advanced NLP techniques and BGE3-Large vector embeddings, optimizing response relevance and achieving a 92% user satisfaction rate.
 - Integrated real-time database retrieval with optimized caching mechanisms, cutting response times by 30% and improving scalability for enterprise-level deployment.
 - Selected to present the project at Nokia Bangalore University Connect (NBUC) program, a prestigious event attended by academic partners and senior technical leadership, receiving recognition for innovative approach to automated support systems.
 
-### Machine Learning | Intern @ Dexian | Bangalore | Jul '23 - Aug '23
+### Machine Learning | Intern @ Dexian | In-Office Bangalore | Jul '23 - Aug '23
 - Designed and implemented a high-accuracy heart stroke prediction system using ensemble methods including Random Forest (94.5%), Gradient Boosting (94.1%), and Logistic Regression (75.4%), enabling early risk assessment for preventative care.
 - Optimized data preprocessing pipeline with advanced feature engineering techniques, improving overall model performance by 10% while reducing computational overhead by 15%.
 - Developed interactive visualization dashboards using Matplotlib and Seaborn to communicate critical insights to medical stakeholders, facilitating data-driven decision making for patient interventions.
