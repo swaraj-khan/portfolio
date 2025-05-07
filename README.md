@@ -4,7 +4,9 @@
 
 ## About Me
 
-A motivated Computer Science student with a strong passion for Python programming and machine learning. Currently pursuing B.Tech in Computer Science & Engineering at Dayananda Sagar University, Bengaluru. Seeking opportunities to apply theoretical knowledge in real-world projects, enhance software development skills, and advance expertise in machine learning techniques.
+Computer Science student with 1 year of experience building scalable Python APIs and real-time data pipelines
+using FastAPI, Redis, Docker, and AWS. Proficient in async architectures and microservices design, with hands-on
+work integrating AI/ML agents for high-throughput, low-latency applications.
 
 ## Publications
 
