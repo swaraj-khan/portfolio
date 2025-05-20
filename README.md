@@ -8,15 +8,16 @@ Final-year Computer Science student with hands-on expertise in building agentic 
 
 ## Publications
 
-**Automated PDF Q and A Chatbot: Harnessing AI for Efficient Information Retrieval**  
-*2024*  
-[IRF International Conference](https://digitalxplore.org/proceeding.php?pid=2620)  
-Pune, India
 
-- Developed an AI-driven PDF-based Q&A chatbot utilizing text extraction, chunking, and cosine similarity matching for accurate information retrieval without relying on generative AI.
-- Implemented advanced data sanitization techniques to prevent XSS attacks, enhancing security while maintaining sub-second response times.
-- Created comprehensive logging mechanisms to track interactions and queries, improving system reliability and user experience.
-- Presented research findings demonstrating how efficient document parsing and vector representation can outperform conventional NLP techniques for specific Q&A applications.
+**From Nodes to Notables: A Graph Framework to Detect Emerging Influencers**  
+*2025*  
+Accepted for Publication – IEEE Conference  
+
+- Co-authored a hybrid influencer detection system using graph theory and GNNs, validated on 10,000+ social profiles.  
+- Achieved 93.7% precision in identifying top 5% emerging influencers via eigenvector, closeness, and PageRank centralities.  
+- Integrated behavioral metrics (engagement >25%, 2,500+ follower growth) and Louvain-based community detection for 3.2× improvement in targeting precision.  
+- Improved influencer prediction accuracy by 28.4% over baseline using GNN-based modeling.
+
 
 **Democratizing Machine Learning: A KNN-Guided Adaptive AutoML Framework**  
 *2025*  
@@ -34,6 +35,17 @@ Accepted for Publication - IEEE Conference
 - Integrated multiple detection models including face emotion recognition, weapon detection, violence detection, and behavior analysis to create a comprehensive security solution.
 - Developed the alert management system using Telegram chatbot for instant notification, allowing rapid response to potential security threats.
 - Contributed to system evaluation achieving over 90% accuracy in violence detection and 86% accuracy in weapon detection across various test scenarios.
+
+**Automated PDF Q and A Chatbot: Harnessing AI for Efficient Information Retrieval**  
+*2024*  
+[IRF International Conference](https://digitalxplore.org/proceeding.php?pid=2620)  
+Pune, India
+
+- Developed an AI-driven PDF-based Q&A chatbot utilizing text extraction, chunking, and cosine similarity matching for accurate information retrieval without relying on generative AI.
+- Implemented advanced data sanitization techniques to prevent XSS attacks, enhancing security while maintaining sub-second response times.
+- Created comprehensive logging mechanisms to track interactions and queries, improving system reliability and user experience.
+- Presented research findings demonstrating how efficient document parsing and vector representation can outperform conventional NLP techniques for specific Q&A applications.
+
 
 ## Experience
 
