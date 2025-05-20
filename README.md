@@ -4,9 +4,7 @@
 
 ## About Me
 
-Computer Science student with 1 year of experience building scalable Python APIs and real-time data pipelines
-using FastAPI, Redis, Docker, and AWS. Proficient in async architectures and microservices design, with hands-on
-work integrating AI/ML agents for high-throughput, low-latency applications.
+Final-year Computer Science student with hands-on expertise in building agentic LLM systems, real-time data pipelines, and AI-powered automation. Experienced in deploying production-grade multi-agent architectures (CrewAI, SmolDev) and working across FastAPI, Redis, GNNs, and Supabase. Passionate about applied ML, graph-based reasoning, and scalable AI infrastructure.
 
 ## Publications
 
