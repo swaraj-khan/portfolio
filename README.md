@@ -4,7 +4,7 @@
 
 ## About Me
 
-Final-year Computer Science student with hands-on expertise in building agentic LLM systems, real-time data pipelines, and AI-powered automation. Experienced in deploying production-grade multi-agent architectures (CrewAI, SmolDev) and working across FastAPI, Redis, GNNs, and Supabase. Passionate about applied ML, graph-based reasoning, and scalable AI infrastructure.
+Computer Science graduate with hands-on expertise in building agentic LLM systems, real-time data pipelines, and AI-powered automation. Experienced in deploying production-grade multi-agent architectures (CrewAI, SmolDev) and working across FastAPI, Redis, GNNs, and Supabase. Passionate about applied ML, graph-based reasoning, and scalable AI infrastructure.
 
 ## Publications
 
