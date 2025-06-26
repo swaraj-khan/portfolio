@@ -49,13 +49,6 @@ Pune, India
 
 ## Experience
 
-### Machine Learning Engineer | Founding Intern @ Draconic AI | In-Office Bangalore | Oct '24 - Present
-- Architected a comprehensive data engineering pipeline leveraging FastAPI endpoints to extract real-time OHLCV trading data from Zerodha and Dhan platforms, implementing dual-storage strategy with Redis for high-speed access and PostgreSQL (Supabase) for persistent storage.
-- Developed advanced computation modules for critical trading metrics including candlestick patterns, price action indicators, swing analysis, and options chain analytics, optimizing data availability for algorithmic trading decisions.
-- Designed and implemented a secure authentication system with Google OAuth and WhatsApp OTP verification, integrating with Supabase backend for robust user management in a production environment.
-- Engineered multiple AI agent systems using CrewAI, Agno, and Smol frameworks, creating both Anthropic Claude-powered production agents and open-source HuggingFace alternatives, while implementing a comprehensive LLM monitoring system tracking token usage and response latency.
-- Built dual-purpose Retrieval Augmented Generation (RAG) systems: (1) a general knowledge base indexing 60+ trading books by renowned authors, and (2) a personalized system enabling analysis of user-uploaded trading journals and TradingView charts combined with real-time market data.
-- Conducted systematic prompt engineering experiments using PromptLayer to optimize LLM performance across different contexts, significantly enhancing response quality and reducing token consumption.
 
 ### Chatbot Development | Intern @ Nokia | Hybrid Bangalore | Mar '24 - Jul '24
 - Engineered a production-grade AI-powered chatbot for Nokia's ticketing and testing teams, automating log issue resolution and reducing manual workload by 40% while improving operational efficiency.
